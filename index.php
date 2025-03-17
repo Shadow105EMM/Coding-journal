@@ -11,7 +11,7 @@
 
     <!--Menu Links-->
     <div class="container-link">
-      <a class="menu-link" href="">Projects</a>
+      <a class="menu-link" href="projects.php">Projects</a>
       <a class="menu-link" href="">Future</a>
       <a class="menu-link" href="https://github.com/Shadow105EMM/Coding-Website">GitHub</a> 
     </div>
