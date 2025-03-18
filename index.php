@@ -11,9 +11,9 @@
 
     <!--Menu Links-->
     <div class="container-link">
-      <a class="menu-link" href="project.php">Projects</a>
-      <a class="menu-link" href="">Future</a>
-      <a class="menu-link" href="https://github.com/Shadow105EMM/Coding-Website">GitHub</a> 
+      <a title="My projects" class="menu-link" href="project.php">Projects</a>
+      <a title="This are my plans in the future" class="menu-link" href="future.php">Future</a>
+      <a title="Click to see my GitHub account" class="menu-link" href="https://github.com/Shadow105EMM/Coding-Website">GitHub</a> 
     </div>
 
     <!--Welcome Text-->
@@ -22,7 +22,7 @@
         <h1>Journal</h1>
       </div>
       <div class="welcome-text-infos">
-        <p>This is the first project journal from Shadow. <br>
+        <p title="Bla Bla Bla...">This is the first project journal from Shadow. <br>
           It`s the first version of this page. But it is sure that there<br>
           will be more versions coming soon. I hope you like the first version and <br> 
           if u have ideas to make this page better you can tell me these.<br>
@@ -34,9 +34,9 @@
     <!--Footer with Infos-->
     <footer>
       <div class="footer-infos">
-         <a class="footer-link" href="">Version 1.0</a>
-         <a class="footer-link" href="">VS Code</a>
-         <a class="footer-link" href="https://github.com/Shadow105EMM/Coding-Website">Shadow ©</a>
+         <a title="This is the version of the page" class="footer-link" href="">Version 1.0</a>
+         <a title="The programm I use" class="footer-link" href="">VS Code</a>
+         <a title="Click to see my profile" class="footer-link" href="https://github.com/Shadow105EMM/Coding-Website">Shadow ©</a>
       </div>
     </footer>
 
