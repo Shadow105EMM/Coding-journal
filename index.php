@@ -24,8 +24,8 @@
       <div class="welcome-text-infos">
         <p>This is the first project journal from Shadow. <br>
           It`s the first version of this page. But it is sure that there<br>
-          will be more versions coming soon. I hope you like the first version. <br> 
-          If u have ideas to make this page better you can tell me those.<br>
+          will be more versions coming soon. I hope you like the first version and <br> 
+          if u have ideas to make this page better you can tell me these.<br>
           I am new at coding so don`t hope too much. I hope I will learn fast<br>
          </p>
       </div>
