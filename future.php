@@ -17,7 +17,7 @@
     </div>
 
     <!--Logo-->
-      <img title="my fancy Logo. Nice isn`t it?" class="Logo-E" src="Images/Auftrag_shadow_with_gradient_border.jpg" alt="Logo-E">
+      <img title="My fancy Logo. Nice isn`t it?" class="Logo-E" src="Images/Auftrag_shadow_with_gradient_border.jpg" alt="Logo-E">
 
         <!--
     ===========================================================
