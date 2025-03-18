@@ -63,6 +63,7 @@
 
   .footer-link:hover {
     text-decoration: underline;
+    color: grey;
   }
 
   /*Welcome Text */
@@ -82,5 +83,42 @@
     width: 5%;
     top: 18px;
     left: 32px;
+  }
+  
+
+  /*
+  ===========================================================
+     
+                      GRID PLACHOLDE
+  
+  ============================================================
+  */
+ 
+  .grid-projects {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 300px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
+
+.phimg {
+    width: 100px;
+    height: auto;
+    padding-left: 30%;
+  }
+
+  .text-projects {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 7px;
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .phtext {
+    text-align: center;
+    padding-left: 30.5%;
   }
   
