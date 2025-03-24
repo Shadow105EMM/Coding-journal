@@ -11,7 +11,7 @@
 
     <!--Menu Links-->
     <div class="container-link">
-      <a title="Here you come back" class="menu-link" href="index.php">Home</a>
+      <a title="Here you come back" class="menu-link" href="index.html">Home</a>
       <a title="My plans in the future" class="menu-link" href="future.php">Future</a>
       <a title="Click to see my (cool) Github account" class="menu-link" href="https://github.com/Shadow105EMM/Coding-Website">GitHub</a> 
     </div>
